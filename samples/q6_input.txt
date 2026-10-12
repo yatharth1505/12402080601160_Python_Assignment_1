@@ -1,0 +1,8 @@
+4 3
+core
+db
+ui
+auth
+ui auth
+auth db
+db core
